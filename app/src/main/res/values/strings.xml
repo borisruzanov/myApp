@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myApp</string>
+    <string name="button_register_title">Register</string>
+    <string name="api_key">84111371c9a2163f6f3fb1a7811b44fb</string>
+</resources>
